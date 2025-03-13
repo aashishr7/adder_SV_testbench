@@ -1,7 +1,7 @@
 // Code your testbench here
 // or browse Examples
 `include "interface.sv"
-`include "test_1.sv"
+`include "test.sv"
 //`include "test_2.sv"
 
 module tb;
